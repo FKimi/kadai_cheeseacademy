@@ -1,0 +1,6 @@
+.DS_Store
+.localized
+Visual Studio Code 4.app/
+*.png
+*.zip
+
